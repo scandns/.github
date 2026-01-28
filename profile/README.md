@@ -19,5 +19,5 @@
 
 <h4 align="center">
   <a href="https://scandns.net">Live Website</a> ·
-  <a href="https://github.com/scandns/scandns.net">GitHub</a>
+  <a href="https://github.com/scandns/">GitHub</a>
 </h4>
